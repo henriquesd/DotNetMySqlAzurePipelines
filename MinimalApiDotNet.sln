@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApiDotNet", "MinimalApiDotNet.csproj", "{87E69C9A-9E36-4438-BA35-040EB032B290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E69C9A-9E36-4438-BA35-040EB032B290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E69C9A-9E36-4438-BA35-040EB032B290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E69C9A-9E36-4438-BA35-040EB032B290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E69C9A-9E36-4438-BA35-040EB032B290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF4E53A-63DB-4538-9351-FE96F544BDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF4E53A-63DB-4538-9351-FE96F544BDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF4E53A-63DB-4538-9351-FE96F544BDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF4E53A-63DB-4538-9351-FE96F544BDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A8AB731-6C57-4CA4-AFA6-9375FB9C0735}
+	EndGlobalSection
+EndGlobal
